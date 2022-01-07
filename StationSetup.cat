@@ -932,7 +932,7 @@
                 <Value>KUKA_Sunrise_Cabinet_1</Value>
             </Property>
             <Property displayName="IP" key="IP" showInEditor="true" type="String">
-                <Value>172.31.1.147</Value>
+                <Value>172.31.1.148</Value>
             </Property>
         </TopologyItem>
         <Property displayName="userName" key="userName" type="String">
